@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\aspzero\aspnet-core\src\GSoft.AbpZeroTemplate.Core.Shared\bin\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.deps.json
+C:\Users\USER\Desktop\aspzero\aspnet-core\src\GSoft.AbpZeroTemplate.Core.Shared\bin\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.dll
+C:\Users\USER\Desktop\aspzero\aspnet-core\src\GSoft.AbpZeroTemplate.Core.Shared\bin\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.pdb
+C:\Users\USER\Desktop\aspzero\aspnet-core\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\aspzero\aspnet-core\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\aspzero\aspnet-core\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\aspzero\aspnet-core\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.AssemblyInfo.cs
+C:\Users\USER\Desktop\aspzero\aspnet-core\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.dll
+C:\Users\USER\Desktop\aspzero\aspnet-core\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.pdb

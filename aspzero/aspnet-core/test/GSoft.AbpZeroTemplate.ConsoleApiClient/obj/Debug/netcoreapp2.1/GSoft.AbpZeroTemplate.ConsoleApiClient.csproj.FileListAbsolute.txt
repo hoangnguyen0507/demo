@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\bin\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.ConsoleApiClient.deps.json
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\bin\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.ConsoleApiClient.runtimeconfig.json
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\bin\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.ConsoleApiClient.runtimeconfig.dev.json
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\bin\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.ConsoleApiClient.dll
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\bin\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.ConsoleApiClient.pdb
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\bin\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.Application.Shared.dll
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\bin\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.Core.Shared.dll
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\bin\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.Application.Shared.pdb
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\bin\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.Core.Shared.pdb
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\obj\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.ConsoleApiClient.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\obj\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.ConsoleApiClient.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\obj\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.ConsoleApiClient.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\obj\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.ConsoleApiClient.AssemblyInfo.cs
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\obj\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.ConsoleApiClient.csproj.CopyComplete
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\obj\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.ConsoleApiClient.dll
+C:\Users\USER\Desktop\aspzero\aspnet-core\test\GSoft.AbpZeroTemplate.ConsoleApiClient\obj\Debug\netcoreapp2.1\GSoft.AbpZeroTemplate.ConsoleApiClient.pdb
